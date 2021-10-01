@@ -10,3 +10,4 @@ d = max(long_w) = q2
 
 formula = sqrrt( (q1-p1)^2 + (q2-p2)^2  )
 */
+select power((max(lat_n)-min(lat_n)), 2) from station
