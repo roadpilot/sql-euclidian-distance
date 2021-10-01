@@ -8,4 +8,5 @@ b = max(lat_n)  = q1
 c = min(long_w) = p2
 d = max(long_w) = q2
 
+formula = sqrrt( (q1-p1)^2 + (q2-p2)^2  )
 */
